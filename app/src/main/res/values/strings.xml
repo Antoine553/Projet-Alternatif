@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Projet-Alternatif</string>
+    <string name="profile">profile</string>
+    <string name="email">email</string>
+    <string name="phone">phone</string>
+    <string name="image_centrale">image_centrale</string>
+    <string name="verifier_maintenant">Verifier maintenant</string>
+    <string name="logout">Logout</string>
+    <string name="welcome_to_dashboard">Welcome to dashboard</string>
+    <string name="email_non_verifier">Email Non Verifier !!!</string>
+    <string name="voire_les_courses">Voire les courses</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="participants">Participants :</string>
+    <string name="cr_ateur">Créateur :</string>
+    <string name="date">Date :</string>
+    <string name="distance_800m">Distance : 800M</string>
+    <string name="nb_de_tours_2">Nb de tours : 2</string>
+    <string name="nom_de_la_course">Nom de la course</string>
+    <string name="start">Start</string>
+    <string name="participant8">participant8</string>
+    <string name="participant7">participant7</string>
+    <string name="participant6">participant6</string>
+    <string name="participant5">participant5</string>
+    <string name="participant4">participant4</string>
+    <string name="participant3">participant3</string>
+    <string name="participant2">participant2</string>
+    <string name="button">Button</string>
+    <string name="participant1">participant1</string>
+    <string name="temps_de_la_course">Temps de la course :</string>
+    <string name="en_attente">En attente</string>
+    <string name="tour">Tour</string>
+    <string-array name="distances_array">
+        <item>100M</item>
+        <item>200M</item>
+        <item>400M</item>
+        <item>500M</item>
+        <item>800M</item>
+        <item>1000M</item>
+        <item>1500M</item>
+        <item>2000M</item>
+        <item>3000M</item>
+        <item>5000M</item>
+        <item>10000M</item>
+    </string-array>
+
+</resources>
